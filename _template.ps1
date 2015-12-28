@@ -5,7 +5,6 @@ param ( # (own code here)
     [string]$targetFolder = $PSScriptRoot,
     [string]$projectName = ""
 )
-
 # _______________________________________________________
 # B. Static (version controlled)
 # _______________________________________________________
